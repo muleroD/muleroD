@@ -60,6 +60,7 @@ Full Stack Software Developer/Technical Lead, passionate about technology and ga
 
 - [Taskify](https://github.com/muleroD/Taskify) - Application for team task management.
 - [Google Fitness Node API](https://github.com/muleroD/google-fitness-nodeapi) - API for Google Fitness integration.
+- [Azure DevOps CSV to Excel Converter](https://github.com/muleroD/azure-devops-csv-to-excel-converter) - Azure DevOps CSV to Excel Converter.
 - [More Projects](https://github.com/muleroD?tab=repositories)
 
 ## Contact
