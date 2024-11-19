@@ -2,7 +2,7 @@
 
 ## Hello, I'm Richard Mulero <img src="https://cdn-icons-png.flaticon.com/512/10599/10599032.png" width="24" height="24" alt="" title="" class="img-small">
 
-Full Stack Software Engineer/Technical Lead, passionate about technology and games. The purpose of my profile is to share some of my knowledge and the challenges I face daily, creating alternative solutions to common problems. Welcome to my profile!
+Software Engineer/Technical Lead, passionate about technology and games. The purpose of my profile is to share some of my knowledge and the challenges I face daily, creating alternative solutions to common problems. Welcome to my profile!
 
 ## About me
 
