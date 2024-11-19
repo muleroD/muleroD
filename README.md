@@ -2,11 +2,11 @@
 
 ## Hello, I'm Richard Mulero <img src="https://cdn-icons-png.flaticon.com/512/10599/10599032.png" width="24" height="24" alt="" title="" class="img-small">
 
-Full Stack Software Developer/Technical Lead, passionate about technology and games. The purpose of my profile is to share some of my knowledge and the challenges I face daily, creating alternative solutions to common problems. Welcome to my profile!
+Full Stack Software Engineer/Technical Lead, passionate about technology and games. The purpose of my profile is to share some of my knowledge and the challenges I face daily, creating alternative solutions to common problems. Welcome to my profile!
 
 ## About me
 
-- 🎯 Currently, I am a Tech Lead at [Grupo FCamara](https://fcamara.com/)
+- 🎯 Currently, I am a Software Engineer at [Mercado Livre](https://www.mercadolivre.com.br/)
 - 💻 I have experience with various technologies and am always curious to learn more
 - 🚀 Always looking to improve my skills and knowledge
 - 🧩 I see challenges as learning opportunities.
