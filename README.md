@@ -66,7 +66,6 @@ Software Engineer/Technical Lead, passionate about technology and games. The pur
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-mulero)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muleroD)
 
 <!---
 muleroD/muleroD is a ✨ special repository ✨ because its `README.md` (this file) appears on your GitHub profile.
